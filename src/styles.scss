@@ -23,7 +23,7 @@ nav {
     display: flex;
     justify-content: flex-start;
 
-    a{
+    a {
         @include white-text-black-bg;
         margin:10px;
         font-size: large;

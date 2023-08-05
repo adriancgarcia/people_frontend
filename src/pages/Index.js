@@ -25,11 +25,11 @@ function Index(props) {
             <h3>{person.title}</h3>
         </div>
         );
-    })};
+    })}
     </div>
     );
 };
 
-export default Index;
+export default Index
 
 
